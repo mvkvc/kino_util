@@ -1,0 +1,17 @@
+# test
+
+```elixir
+Mix.install([
+  {:kino_util, path: "."}
+  # {:kino_util, path: "./kino_util-0.1.0/contents"}
+  # {:kino_util, ">= 0.1.0"}
+])
+```
+
+## Section
+
+<!-- livebook:{"attrs":{"cpu_percent":22,"gpu_mem_percent":0,"gpu_mem_total":0,"gpu_mem_used":0,"gpu_percent":0,"mem_percent":76,"mem_total":15.404312133789062,"mem_used":11.713459014892578},"chunks":null,"kind":"Elixir.KinoUtil","livebook_object":"smart_cell"} -->
+
+```elixir
+
+```
